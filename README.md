@@ -11,7 +11,12 @@ _Mythic is being written for immediate use with classic Dungeons and Dragons_
 
 Mythic has some broad features that make it unique.  In general, **Mythic** should have a classic feel in an _age of wonder_.
 
-- To Be Listed
-- Testing Git Hub Flavored markDown
-  - ignore
-  - list
+- Celtic Feel
+- Deep Forest
+- Dark Caves
+- Small Villages
+- Castles
+- Knights
+- Princesses
+- Dragons
+- No Steam Punk
