@@ -2,6 +2,18 @@
 
 To be given out at character creation by the discretion of the DM based on _player ability_ and party cohesion.  They are not associated to any pre-made character per se.
 
+<!-- TOC -->
+
+- [Handouts Plot](#handouts-plot)
+    - [The Dream Again](#the-dream-again)
+    - [More Money More](#more-money-more)
+    - [Putting In Time](#putting-in-time)
+    - [All Hail The Cook](#all-hail-the-cook)
+    - [Not-so-Much a Pet](#not-so-much-a-pet)
+    - [Treasure Trap](#treasure-trap)
+
+<!-- /TOC -->
+
 ## The Dream Again
 
 You suffer a recurring nightmare.  You find yourself on the rocky and muddy shores of a cold coast.  The air is misty and you are scared, trying to keep your composure as you hastily make your way to the waters edge.  It feels like you are leaving behind some crime you've committed or a meeting with a powerful lord who could snap his fingers and have you thrown into a cell.  Floating there is a long black row boat with a figure in it holding the oars.  You scramble to it and jump in.  The ferryman is old and disfigured.  In your trembling and freezing hand is a dirty silver coin.  Sometimes you speak with the ferryman and sometimes you just hand him the coin and he sets off across the river or lake.  The parts of the dream you remember don't seem that frightening but you always wake short of breath in a cold sweat.
@@ -32,3 +44,7 @@ You have a small _Crested Zebra Finch_ that has been following you around for al
 You should come up with a name for the bird.
 
 ## Treasure Trap
+
+You have in your possession an intricately detailed bronze statue about the size of a cannon ball. It depicts a fat laughing man clutching an umbrella with fish swimming in a loop around his belly. The whole depiction is covered in strange writing and is all-together spherical.
+
+This by itself would be no great treasure except perhaps to a collector--What makes this such a prize to you is that you discovered quite on your own that if you press a finger over one or more of the letters, it will begin to glow faintly blue!  The glowing letters fade after a few minutes but you are convinced that there is some puzzle here if you could only figure it out.

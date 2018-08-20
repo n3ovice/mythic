@@ -1,0 +1,28 @@
+body {
+  background-color: #fff;
+  padding-top: 30px;
+}
+.main {
+  background-color: #fff;
+  border: 1px solid #CCC;
+  padding: 40px;
+  background-image: url('https://i.imgur.com/l03MA53.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right bottom;
+}
+.container {
+  width: 1100px;
+}
+.nav-list {
+  font-size: 17px;
+}
+.nav-header {
+  font-size: 17px;
+  text-transform: none;
+  line-height: 30px;
+}
+.sidebar-header-2 { margin-left: 10px; }
+.sidebar-header-3 { margin-left: 20px; }
+.sidebar-header-4 { margin-left: 30px; }
+.sidebar-header-5 { margin-left: 40px; }

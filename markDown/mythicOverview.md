@@ -1,8 +1,58 @@
 # Mythic Overview
 
+<!-- TOC -->
+
+- [Mythic Overview](#mythic-overview)
+    - [Gods and Devils](#gods-and-devils)
+        - [Sol Birth](#sol-birth)
+        - [Mir Life](#mir-life)
+        - [Kad Death](#kad-death)
+    - [Lands and Seas](#lands-and-seas)
+        - [Grand Forest](#grand-forest)
+        - [Northern Sea](#northern-sea)
+        - [The Kingdom](#the-kingdom)
+        - [Druuthenholm Mountains](#druuthenholm-mountains)
+        - [Lutra](#lutra)
+    - [Cities and Towns](#cities-and-towns)
+        - [Vanima](#vanima)
+        - [Chendrin Hall](#chendrin-hall)
+        - [Castle Heron](#castle-heron)
+        - [Burn Shire](#burn-shire)
+        - [Blackstone](#blackstone)
+        - [Bondwafer](#bondwafer)
+    - [Lords and Ladies](#lords-and-ladies)
+        - [The Queen](#the-queen)
+        - [Count Putnam Laplass](#count-putnam-laplass)
+        - [Princess Eubuli](#princess-eubuli)
+        - [High Priest Anslem](#high-priest-anslem)
+        - [Lord Bellingham](#lord-bellingham)
+        - [Lady Jarvesetee](#lady-jarvesetee)
+        - [Lord Lutra](#lord-lutra)
+        - [Goodly Grue](#goodly-grue)
+    - [Factions and Guilds](#factions-and-guilds)
+        - [Royal Family](#royal-family)
+        - [House Jarvesetee](#house-jarvesetee)
+        - [The Church](#the-church)
+        - [The Draco-Cults](#the-draco-cults)
+        - [House Heron](#house-heron)
+        - [The Magi](#the-magi)
+        - [The Elves](#the-elves)
+        - [The Laplass Family](#the-laplass-family)
+    - [Myth and Minutiae](#myth-and-minutiae)
+        - [Witchcraft](#witchcraft)
+        - [Raz-Modian](#raz-modian)
+        - [The Prayers](#the-prayers)
+        - [Illumination](#illumination)
+        - [Gold Creep](#gold-creep)
+        - [Entangled Items](#entangled-items)
+        - [Holy Avatar](#holy-avatar)
+        - [Wood Grail](#wood-grail)
+
+<!-- /TOC -->
+
 ## Gods and Devils
 
-### Sol - Birth
+### Sol Birth
 
 Sol is known as the queen of kings and 'The Goddess' or simply 'The
 Light'. She is the only god worshiped by *The Church*. Her followers
@@ -20,7 +70,7 @@ rituals. She prescribes kindness, forgiveness and family.
   - 20 *The Church* is actually very corrupt, especially at the top
   - 22 The vertical block encapsulated in a circle is actually a symbolic marriage between Sol and *Mir*
 
-### Mir - Life
+### Mir Life
 
 Mir is the mad god of life. Worshiped by forest dwellers and druids.
 Celebration, Emotion, Poetry and Art, Plants and Animals are all in the
@@ -37,7 +87,7 @@ Domain of Mir
   - 20 Worshipers of Mir can speak the language of all animals
   - 22 Every winter solstice, a huge ritual is performed in a temple at the heart of the *Grand Forest* to remind Mir to change the seasons, then again on the summer solstice to thank him
 
-### Kad - Death
+### Kad Death
 
 Kad is the god of death, the underworld and all things evil. She is
 totally unknown by most in the *Kingdom* and to many who **do** know,
@@ -63,28 +113,40 @@ The Grand Forest, often called Mirwood, is the largest, oldest and most
 dense forest in the kingdom. It is home to creatures magical and
 mundane.
 
+### Northern Sea
+
+The name given to the vast and cold sea that stretches over the north-west of [The Kingdom](#the-kingdom).  It supports massive schools of fish, it's shores are seasonally filled to bursting with **clapping clams** and it is likely riddled with colossal sea monsters.
+
 ### The Kingdom
 
-Everything on the map is under the rule of the King or Queen
+Everything on the map is under the rule of the King or Queen.  There are certainly parts of the world in which the [The Royal Family](#the-royal-family) has no power but that is only because the lands are untamed.  If the dwarfs ever reclaimed their throne keep in the [Druuthenhold Mountains](#druuthenholm-mountains), they may have some claim to sovereignty.  It is only because no one knows exactly where [Vanima](#vanima) is; that the elves escape any authority.  Wherever human civilization can be found, the royal decree is supreme.
 
 ### Druuthenholm Mountains
 
-The historical homelands of the Dwarfs
+The historical homelands of the Dwarfs.  **Druuthenholm** was taken from the dwarfs when [Raz-Modian](#raz-modian) chose their stronghold as his roost.
+
+### Lutra
+
+The lands that makeup [Lord Lutra's](#lord-lutra) region are known as _The Highlands_ or simply _Lutra_.  It is reasonably farm-able and very large.  The lands are known to produce more wheat then all the other territories combined.  It is also famous for it's livestock.  The horses, cows, pigs and even the chickens all seem to be extra alert, trainable, healthy and intelligent.
 
 ## Cities and Towns
+
+### Vanima
+
+Thought to be a vast and mature elven citadel hidden somewhere in the [Northern Sea](#northern-sea).  Most of the elves wandering [The Kingdom](#the-kingdom) either don't know or choose not to divulge any confirmation of **Vanima**'s existence.  Their silence does nothing to combat the many rumors about Vanima and [The Elves](#the-elves).  Unlike the other races, Elves don't seem to collect together in single neighborhoods or regions.  While it isn't rare for a village to have the odd elf or two, it **is** very rare to see an elven family or even a large group.
 
 ### Chendrin Hall
 
 ### Castle Heron
 
 The **3rd** largest city in the *The Kingdom*, ruled over by the most
-powerful noble house other than the royal family themselves; *House
-Heron*.
+powerful noble house other than the royal family themselves; [House
+Heron](#house-heron).  **Castle Heron** itself is made of smooth polished stone.  It is likely the cleanest city in the Kingdom and is certainly the most well kept.  The dark purple banners of the Heron house add to the aesthetic as do the intricate capes, arms and armor that is furnished for the cities guard and officials.
 
 ### Burn Shire
 
 Formerly a Beautiful farming community looked after by a noble lord.
-When the lord's daughter was selected by *Raz-Modian*, he decided to
+When the lord's daughter was selected by [*Raz-Modian*](#raz-modian), he decided to
 gather his knights and try to slay the dragon instead of paying tribute.
 After Raz-Modian killed him and his men, he burned the village to
 cinders and it never fully recovered. It is now called burn shire and is
@@ -111,15 +173,9 @@ stone.
 Bondwafer is the largest and only Halfling town in *The Kingdom*. It has
 a population of some odd 10,000 hobbits dispersed over a large region.
 Most halflings live amongst the other races and it is often said that
-there are more halflings in *Blackstone* than are in Bondwafer.
-
-- Goodly Grue is an old and crazy **Gnome** who lives in a large patch of woods near Bondwafer. He is one of the only creatures who believes himself to be a gnome. He also has no real idea where the other gnomes live. He is a tinkerer, inventor and alchemist who is currently most interested in *The yellow mold* that grows near his cottage and in various other places. He is an excellent gardener and potion brewer.
+there are more halflings in [*Blackstone*](#blackstone) than are in Bondwafer.  [Goodly Grue](#goodly-grue) calls bondwafer his home.
 
 ## Lords and Ladies
-
-### Royal Family
-
-The current royal family is *The Laplass Family*.
 
 ### The Queen
 
@@ -136,15 +192,37 @@ guard to the farmlands of
 
 ### High Priest Anslem
 
+### Lord Bellingham
+
+Formally a great hero knight, **Bellingham** can now be found pattering around his little house in [Blackstone](#blackstone).  Those who knew him in his prime, remember him as a fearless and barrel chested warrior with a quick temper.  Long after he had already retired, he abruptly sold all his lands and released all his servents to live out the rest of his days tending to his small home alone.  Those who see him now aren't likely to recognize him for what he was but rather as he seems; a bent old man with a growly voice and twinkling bright hazel eyes.
+
+- Knowledge Check
+  - 12 **Lord Bellingham** happily fathered a bastard son and raised him to be a fine young man.  The son fell in love with a good-hearted farmer's daughter and was to be wed.  Lord Bellingham loved his daughter-in-law-to-be as his own and was excited to see the two lovers into their own lands.  The girl caught the attention of [The Draco Cultists](#the-draco-cults) and was taken from their home in the dead of night and her fiance was killed.  That was **22** years past and **Lord Bellingham** has never been the same.  Secretly swearing slow revenge on [Raz-Modian](#raz-modian) and all who follow him.
+
 ### Lady Jarvesetee
 
-The last and only heir to the Jarvesetee house. Jarvesetee lands are
-considered to be the finest in the land, with a utilitarian and
+The last and only heir to the [Jarvesetee house](#house-jarvesetee). 
+
+### Lord Lutra
+
+Sometimes called _The Dirt King_ or _Lord Buttered Bread_, **Lord Lutra** looks after the largest singular swath of land inside [The Kingdom](#the-kingdom).  His lands are famous for farming and animal husbandry.  His people are not rich or considered very fashionable but are generally content.  **Lord Lutra** himself is a massive fat man who delights in little pleasures, jokes and theater.  He seems to genuinely love his people.
+
+### Goodly Grue
+
+Goodly is an old and crazy **Gnome** who lives in a large patch of woods near [Bondwafer](#bondwafer). He is one of the only creatures who believes himself to be a gnome. He also has no real idea where the other gnomes live. He is a tinkerer, inventor and alchemist who is currently most interested in *The yellow mold* that grows near his cottage and in various other places. He is an excellent gardener and potion brewer.
+
+## Factions and Guilds
+
+### Royal Family
+
+The current royal family is *The Laplass Family*.
+
+### House Jarvesetee
+
+Jarvesetee lands are considered to be the finest, albeit the smallest in the land, with a utilitarian and
 productive people. A famous phrase from all over the kingdom is a
 "Jarvesetee Beggar" which means, a person who is sad about something
 small even though their life is generally alright.
-
-## Factions and Guilds
 
 ### The Church
 
@@ -187,6 +265,16 @@ peoples of *The Kingdom*. Many Magi take on apprentices or sit on
 councils but there isn't a singular rule or convention regarding their
 ways.
 
+### The Elves
+
+While not technically a guild or faction, **The Elves** in the kingdom do constitute a group even if they do not act in one.
+
+In their individual lives and personalities, elves vary widely but one singular fact puts real distance between them and the other races--As far as anyone else can tell, elves do not age and do not die.  If pressed, an elf may admit to a tavern full of listeners that he or she is in fact several hundred years old and even considers him or herself young!
+
+This is usually hard for the other races to understand and often drives elves to live a more or less insular life.  It is hard for most elves to be overly charming and disarming considering how far they expect to outlive their comrades.
+
+Many in the kingdom are suspicious of elves, perhaps even more so than they are of half-orcs.
+
 ### The Laplass Family
 
 The Laplass family has been in control of the throne for almost a
@@ -220,17 +308,29 @@ whenever found.
 
 ### Illumination
 
-A perfect original of *The Prayers* is kept in the *Jingwei Basilica*
+A perfect original of [*The Prayers*](#the-prayers) is kept in the *Jingwei Basilica*
 Anything written into the original book there, is magically transfered
 into all illuminated copies of the prayers.
 
 ### Gold Creep
 
 Gold creep is a wheat-yellow fungus or lichen that spreads liberally in
-some parts of *The Kingdom* usually in forests but there is a famous
-patch just outside *Bondwafer*. It isn't clear what Gold Creep is but it
+some parts of [*The Kingdom*](#the-kingdom) usually in forests but there is a famous
+patch just outside [*Bondwafer*](#bondwafer). It isn't clear what Gold Creep is but it
 is somewhat edible and sweet, can be scraped into a powder and some say
 it has healing powers.  Most consider it a blight on the land because of
 how it covers everything and can choke out plants and passersby alike.
 All pollen eating animals seem attracted to it and weeds flourish from
-under it. *Goodly Grue*, is the foremost expert on Gold Creep
+under it. [*Goodly Grue*](#goodly-grue), is the foremost expert on Gold Creep
+
+### Entangled Items
+
+Although magic items themselves are very rare; there is a strangely common attribute amongst those that do exist.  Many are _entangled_ with other items or have some strange relationship to a single or many others.  The most common expression of this anomaly is that of the _Entangled Pen_ which is in common use amongst in [the church](#The-Church).
+
+### Holy Avatar
+
+It is believed that [Sol](#sol-birth) will come to the material plane some time in this century to inhabit the spirit of a young child under the age of **26**.
+
+### Wood Grail
+
+The **Wood Grail** is a legendary artifact that is said to contain a small bit of [Mir's](#mir-life) mind.  If one drinks from the wood grail, they are given the answers to their deepest questions and an instruction as to how they should fulfill their destiny.
