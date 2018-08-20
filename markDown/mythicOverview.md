@@ -27,6 +27,7 @@
         - [High Priest Anslem](#high-priest-anslem)
         - [Lord Bellingham](#lord-bellingham)
         - [Lady Jarvesetee](#lady-jarvesetee)
+        - [Gorm the Old](#gorm-the-old)
         - [Lord Lutra](#lord-lutra)
         - [Goodly Grue](#goodly-grue)
     - [Factions and Guilds](#factions-and-guilds)
@@ -34,6 +35,9 @@
         - [House Jarvesetee](#house-jarvesetee)
         - [The Church](#the-church)
         - [The Draco-Cults](#the-draco-cults)
+        - [University of Lutra](#university-of-lutra)
+        - [Gratz](#gratz)
+        - [The Kimbree](#the-kimbree)
         - [House Heron](#house-heron)
         - [The Magi](#the-magi)
         - [The Elves](#the-elves)
@@ -41,6 +45,7 @@
     - [Myth and Minutiae](#myth-and-minutiae)
         - [Witchcraft](#witchcraft)
         - [Raz-Modian](#raz-modian)
+        - [The Code](#the-code)
         - [The Prayers](#the-prayers)
         - [Illumination](#illumination)
         - [Gold Creep](#gold-creep)
@@ -109,25 +114,53 @@ thought to be a myth.
 
 ### Grand Forest
 
-The Grand Forest, often called Mirwood, is the largest, oldest and most
-dense forest in the kingdom. It is home to creatures magical and
+The Grand Forest is the largest, oldest and most dense forest in the kingdom. It is home to creatures magical and
 mundane.
+
+- Knowledge Check
+  - 5 It is often called _MirWood_
+  - 7 The best game is caught in the forest including the famous **Dire Elk** that is so loved by the [Royal Family](#the-royal-family)
+  - 10 Elves originally came from somewhere in the **grand forest**
+  - 13 The forest is haunted by deadly willow wisps that mesmerize their victims and draw them deeper into the dark woods
+  - 16 There are stones secret flagstones scattered around the forest that the druids use to navigate
+  - 22 The safest time to travel in the woods is when the harmless wisps light up the forest, between around **2AM** to just after **Dawn**
 
 ### Northern Sea
 
 The name given to the vast and cold sea that stretches over the north-west of [The Kingdom](#the-kingdom).  It supports massive schools of fish, it's shores are seasonally filled to bursting with **clapping clams** and it is likely riddled with colossal sea monsters.
 
+- Knowledge Check
+  - 10 The famous north sea _clapping clams_ are responsible for the almost annual outbursts of [cold cry fever](#cold-cry-fever) that sweeps through [the Kingdom].
+  - 15 There is an old record of a _South Sea_, sister of the north sea that is warm and clear with white sand beaches.
+  - 20 There was a recent report sworn to by the entire crew of **The Whiskey Fish** (A sea slug troller-boat) about a meeting with a strange half-starved beautiful woman who was floundering on some floating frozen drift wood.  The woman was hauled aboard and given [Spicey Green Pepper Tea](#burnshire).  After her tea she requested food.  The sailors obliged and fed her some of their hard-tack.  After eating half a crate, she asked to open another.  The woman sat and ate voraciously for over an hour.  Then asked for some of their sea-slug catch.  The amazed fishermen obliged again and led her to the store-hold.  After another hour of non-stop eating, the captain tried to put a stop to it.  The woman cackled maniaclly then transformed in front of them into a large brown-golden dragon and swallowed the rest of their stores in a single gulp before bursting out of the hold and flying back towards the shore.
+
 ### The Kingdom
 
 Everything on the map is under the rule of the King or Queen.  There are certainly parts of the world in which the [The Royal Family](#the-royal-family) has no power but that is only because the lands are untamed.  If the dwarfs ever reclaimed their throne keep in the [Druuthenhold Mountains](#druuthenholm-mountains), they may have some claim to sovereignty.  It is only because no one knows exactly where [Vanima](#vanima) is; that the elves escape any authority.  Wherever human civilization can be found, the royal decree is supreme.
+
+- Knowledge Check
+  - 5 [Blackstone](#blackstone) is in the east, [Lutra](#lutra) is in the north and [Castle Heron](#castle-heron) is in the south
+  - 15 [The Royal Family](#royal-family) has been in power for almost **sixty** years
+  - 18 Before [Raz-Modian](#raz-modian), there were many kingdoms
+  - 22 There is a section of [The Code](#the-code) that details how long a single lord or lady can keep power
 
 ### Druuthenholm Mountains
 
 The historical homelands of the Dwarfs.  **Druuthenholm** was taken from the dwarfs when [Raz-Modian](#raz-modian) chose their stronghold as his roost.
 
+- Knowledge Check
+  - 12 Amongst the Dwarfs it is known; [King Gorm The Old](#gorm-the-old) lives and is plotting [The Slaying](#the-slaying)
+  - 18 [Raz-Modian](#raz-modian) did indeed take all the gold and treasure from **Druuthenholm Keep** but before he could do the same to the second largest fortress in the mountains, _Braydr_, the Jarl of Braydr used his magic hammer to smelt the the city's treasure vault and in one strike, forged all the gold into a single ingot.  Before **Braydr** was torched, the **Braydr Ingot** escaped the city.
+
 ### Lutra
 
 The lands that makeup [Lord Lutra's](#lord-lutra) region are known as _The Highlands_ or simply _Lutra_.  It is reasonably farm-able and very large.  The lands are known to produce more wheat then all the other territories combined.  It is also famous for it's livestock.  The horses, cows, pigs and even the chickens all seem to be extra alert, trainable, healthy and intelligent.
+
+- Knowledge Check
+  - 5 The lands of Lutra used to be choked with forest every bit as dense as [Mirwood](#the-grand-forest)
+  - 10 Even though the peoples of Lutra are generally tall and broad, they **must** have some elven in them by the way they treat the land.  Even the name _Lutra_ sounds _elven_
+  - 12 The forests were cleared out of _The Highlands_ hundreds of years ago, but the stone monuments that were formally deep in the woods are now scattered about randomly on old farms and fields.  They're locallay called **faerie stones**
+  - 20 [The Kongalee Library](#university-of-lutra) will pay a fortune for documentation of any **new** faerie stones found in **Lutra**
 
 ## Cities and Towns
 
@@ -135,7 +168,20 @@ The lands that makeup [Lord Lutra's](#lord-lutra) region are known as _The Highl
 
 Thought to be a vast and mature elven citadel hidden somewhere in the [Northern Sea](#northern-sea).  Most of the elves wandering [The Kingdom](#the-kingdom) either don't know or choose not to divulge any confirmation of **Vanima**'s existence.  Their silence does nothing to combat the many rumors about Vanima and [The Elves](#the-elves).  Unlike the other races, Elves don't seem to collect together in single neighborhoods or regions.  While it isn't rare for a village to have the odd elf or two, it **is** very rare to see an elven family or even a large group.
 
+- Knowledge Check
+  - 10 The real location of Vanima is lost, even to the [elves](#the-elves) but it must be somewhere on the coast of _the Northern Sea_, deep in [the Grand Forest](#grand-forest).
+  - 14 The strange white-gold elven coin that can sometimes be found in [Lutra](#lutra) and [the capital](#blackstone) must be from Vanima.
+  - 18 Elves are mysterious as they are, but **especially strange** wood elves are traveling through the kingdom constantly.  They **must** know where Vanima is.
+
 ### Chendrin Hall
+
+**Chendrin Hall** is the formal name of the huge barracks and fort that marks the edge of the frontier in the **south**.  It isn't technically affiliated with any particular noble house and takes soldiers from across the Kingdom.  Elves, Dwarfs and even _Halflings_ are among the ranks that are stationed at Chendrin.
+
+The fort is responsable for the protection of all the villages and regions in the south and as such, it's soldiers see more action than anyone else in the kingdom.  [The less civil orcish warbands](#the-kimbree) consider themselves at constant war with [The Kingdom](#the-kingdom) and regularly muster offensives against Chendrin Hall.
+
+- Knowledge Check
+  - 14 Chendrin Hall will pay **100 Gold Coins** to any able bodies man or woman who enlists there.
+  - 15 The 100 Coins will only be paid after **four years** of uninterrupted service..
 
 ### Castle Heron
 
@@ -197,11 +243,20 @@ guard to the farmlands of
 Formally a great hero knight, **Bellingham** can now be found pattering around his little house in [Blackstone](#blackstone).  Those who knew him in his prime, remember him as a fearless and barrel chested warrior with a quick temper.  Long after he had already retired, he abruptly sold all his lands and released all his servents to live out the rest of his days tending to his small home alone.  Those who see him now aren't likely to recognize him for what he was but rather as he seems; a bent old man with a growly voice and twinkling bright hazel eyes.
 
 - Knowledge Check
-  - 12 **Lord Bellingham** happily fathered a bastard son and raised him to be a fine young man.  The son fell in love with a good-hearted farmer's daughter and was to be wed.  Lord Bellingham loved his daughter-in-law-to-be as his own and was excited to see the two lovers into their own lands.  The girl caught the attention of [The Draco Cultists](#the-draco-cults) and was taken from their home in the dead of night and her fiance was killed.  That was **22** years past and **Lord Bellingham** has never been the same.  Secretly swearing slow revenge on [Raz-Modian](#raz-modian) and all who follow him.
+  - 12 **Lord Bellingham** happily fathered a bastard son and raised him to be a fine young man.  The son fell in love with a good-hearted farmer's daughter and was to be wed.  Lord Bellingham loved his daughter-in-law-to-be as his own and was excited to see the two lovers into their own lands.  The girl caught the attention of [The Draco Cultists](#the-draco-cults) and was taken from their home in the dead of night and her fiancé was killed.  That was **22** years past and **Lord Bellingham** has never been the same.  Secretly swearing slow revenge on [Raz-Modian](#raz-modian) and all who follow him.
 
 ### Lady Jarvesetee
 
 The last and only heir to the [Jarvesetee house](#house-jarvesetee). 
+
+### Gorm the Old
+
+**Gorm the Old** was the king of the dwarfs before [Raz-Modian](#raz-modian) took [Druuthenhold Keep](#druuthenholm).
+
+- Knowledge Check
+  - 10 Gorm the Old died in single combat with **Raz-Modian**
+  - 12 Gorm the Old survived the fight with **Raz-Modian** and fled the city
+  - 18 Gorm the Old **definitely** died in the battle for **Druuthenhold**
 
 ### Lord Lutra
 
@@ -251,6 +306,29 @@ the King. Many see it as a necessary evil and do their best not to draw
 the attention of any Draco-Cultists. Unknown to most, there are members
 of other Draco-Cults, in service to some of the other dragons.
 
+- Knowledge Check
+  - 22 There are cultists at work near [Castle Heron](#castle-heron) that do the bidding of a **Silver Dragon** in the south
+
+### University of Lutra
+
+[Lutra](#lutra) is home to one of the only two major schools of higher learning in [the kingdom](#the-kingdom), the other being the [Gratz School](#grats) in [the capital](#blackstone).  The school has three major segments; **The Martial College** which trains many capable knights and officers, **The Arcanum** which is the only formal school for learning magic and **The Gabson College** which is a minor but famous culinary and animal husbandry school.
+
+The school also boasts the largest singular library in the kingdom, **Kongalee Library**.
+
+### Gratz
+
+**The Gratz School** is a large college in [Blackstone](#blackstone) that produces squires, soldiers, officers and even knights.  The school was transformed after the entire faculty quit in protest forty years ago and new instructors were selected primarily from the royals houses and [the Draco Cults](#the-draco-cults).
+
+### The Kimbree
+
+The most fearsome orcish tribe in the south.  The Orcs from travel from all over to join banners with the Kimbree.  They are constantly pillaging and terrorizing the southlands.
+
+- Knowledge Check
+  - 10 The Kimbree will happily take, buy and sell slaves
+  - 13 **Warlord Zab Bata** leads _the Kimbree_
+  - 18 Members of [the Draco-Cults](#the-draco-cults) can move freely amongst the Kimbree war camps.
+  - 24 More than anything else, the Kimbree are after clean water, or magic that can rid their springs of a _strange disease_ that torments Orcish young.
+
 ### House Heron
 
 One of the most powerful and largest noble houses in *The Kingdom*.
@@ -297,6 +375,17 @@ arts.
 
 The great old colossal red dragon that dominates the north eastern
 *Druuthenholm Mountains*
+
+### The Code
+
+A code-of-conduct for all nobles and knights.  Most know it exists but very few know what's in it.  There are a few written copies in old book-seller shops.  It is usually a vague term to denote _chivalry_.
+
+- Knowledge Check
+  - 12 The code makes clear that a noble should never strike an unarmed foe, never strike in anger and never strike in greed
+  - 14 The code states that all are **knights** by virtue of following the code itself
+  - 16 The code says a knight shall never draw his sword as mere threat without intent
+  - 20 According to the code, knights shall never marry until they give their arms and armor away
+  - 24 The code says something about how power should be distributed in the kingdoms by high-council..
 
 ### The Prayers
 
