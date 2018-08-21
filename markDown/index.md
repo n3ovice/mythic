@@ -1,24 +1,5 @@
 # Mythic Campaign Outline
 
-<!-- TOC -->
-
-  - [Mythic Campaign Outline](#mythic-campaign-outline)
-      - [Character Creation](#character-creation)
-          - [6 Characters](#6-characters)
-              - [Brother/Sister Purity
-                Pants](#brothersister-purity-pants)
-              - [Rap Sheet](#rap-sheet)
-              - [Gnaw Leg](#gnaw-leg)
-              - [Sir Madame Shiny](#sir-madame-shiny)
-              - [War-Horse Girl Stable Boy](#war-horse-girl-stable-boy)
-              - [Wizards Apprentice](#wizards-apprentice)
-          - [Make 6 Stat pools that the characters can distribute
-            amongst
-            themselves](#make-6-stat-pools-that-the-characters-can-distribute-amongst-themselves)
-          - [Quest Bennies](#quest-bennies)
-
-<!-- /TOC -->
-
 ## Character Creation
 
   - Total disregard for equality amongst the characters. It makes for a
@@ -116,7 +97,7 @@
 
   - Must be Human or half-human
   - Starts with **100gp** worth of gear
-  - Bastard Daughter of Lord [Lutra](#lutra)
+  - Bastard Daughter of Lord [Lutra](#lord-lutra)
   - Squire to Sir Shiny
   - Looks after the horse
       - The Horse has +8 Int, +4 Wis and +2 Cha
@@ -187,14 +168,14 @@
 
 ### Make 6 Stat pools that the characters can distribute amongst themselves
 
-| A  | B  | C  | D  | E  | F  |
-| -- | -- | -- | -- | -- | -- |
-| 17 | 16 | 15 | 16 | 14 | 14 |
-| 16 | 15 | 15 | 15 | 13 | 11 |
-| 15 | 13 | 13 | 13 | 13 | 11 |
-| 15 | 13 | 12 | 12 | 10 | 10 |
-| 13 | 12 | 10 | 10 | 10 | 9  |
-| 11 | 12 | 10 | 9  | 9  | 8  |
+| Quality |    |    |    |    |    |    |
+| ------- | -- | -- | -- | -- | -- | -- |
+| A       | 17 | 16 | 15 | 15 | 13 | 11 |
+| B       | 16 | 15 | 13 | 13 | 12 | 12 |
+| C       | 15 | 15 | 13 | 12 | 10 | 10 |
+| D       | 16 | 15 | 13 | 12 | 10 | 9  |
+| E       | 14 | 13 | 13 | 10 | 10 | 9  |
+| F       | 14 | 11 | 11 | 10 | 9  | 8  |
 
 ### Quest Bennies
 
@@ -206,18 +187,6 @@
 To be given out at character creation by the discretion of the DM based
 on *player ability* and party cohesion. They are not associated to any
 pre-made character per se.
-
-<!-- TOC -->
-
-  - [Handouts Plot](#handouts-plot)
-      - [The Dream Again](#the-dream-again)
-      - [More Money More](#more-money-more)
-      - [Putting In Time](#putting-in-time)
-      - [All Hail The Cook](#all-hail-the-cook)
-      - [Not-so-Much a Pet](#not-so-much-a-pet)
-      - [Treasure Trap](#treasure-trap)
-
-<!-- /TOC -->
 
 ## The Dream Again
 
@@ -234,9 +203,27 @@ you just hand him the coin and he sets off across the river or lake. The
 parts of the dream you remember don’t seem that frightening but you
 always wake short of breath in a cold sweat.
 
-## More Money More
+## That Smell
 
-## Putting In Time
+That smell.. Everyone else seems to like it. Everyone else seems to love
+it. The smell of boiled squash and pumpkin **for some reason** smells
+like **vomit** to you. When you were younger you were once forced to try
+some and it took **five days** to get the taste out of your mouth.
+
+## The Strangest Thing
+
+You were once accosted in the street by what appeared to be
+**Draco-Cultists** of **Raz-Modian**\! There were three of them and they
+gruffly grabbed you and pulled you to the side. In an instant your whole
+future flashed before your eyes, the chains, the march to the mountains
+and finally being fed to that old red dragon. To your surprise these
+draco-cultists, all dressed in red as they should be, grinned warmly at
+your discomfort and told you that yes, they did indeed serve a
+**Dragon** but not the one you knew. They told you that you were being
+watched over, that your future held great promise and some day, you
+would be called upon. Then they dusted off your clothes and made a show
+of “letting you off with a warning” before grinning and disappearing
+back into the street, leaving your breathless and confused.
 
 ## All Hail The Cook
 
@@ -291,56 +278,6 @@ after a few minutes but you are convinced that there is some puzzle here
 if you could only figure it out.
 
 # Mythic Overview
-
-<!-- TOC -->
-
-  - [Mythic Overview](#mythic-overview)
-      - [Gods and Devils](#gods-and-devils)
-          - [Sol Birth](#sol-birth)
-          - [Mir Life](#mir-life)
-          - [Kad Death](#kad-death)
-      - [Lands and Seas](#lands-and-seas)
-          - [Grand Forest](#grand-forest)
-          - [Northern Sea](#northern-sea)
-          - [The Kingdom](#the-kingdom)
-          - [Druuthenholm Mountains](#druuthenholm-mountains)
-          - [Lutra](#lutra)
-      - [Cities and Towns](#cities-and-towns)
-          - [Vanima](#vanima)
-          - [Chendrin Hall](#chendrin-hall)
-          - [Castle Heron](#castle-heron)
-          - [Burn Shire](#burn-shire)
-          - [Blackstone](#blackstone)
-          - [Bondwafer](#bondwafer)
-      - [Lords and Ladies](#lords-and-ladies)
-          - [The Queen](#the-queen)
-          - [Count Putnam Laplass](#count-putnam-laplass)
-          - [Princess Eubuli](#princess-eubuli)
-          - [High Priest Anslem](#high-priest-anslem)
-          - [Lord Bellingham](#lord-bellingham)
-          - [Lady Jarvesetee](#lady-jarvesetee)
-          - [Lord Lutra](#lord-lutra)
-          - [Goodly Grue](#goodly-grue)
-      - [Factions and Guilds](#factions-and-guilds)
-          - [Royal Family](#royal-family)
-          - [House Jarvesetee](#house-jarvesetee)
-          - [The Church](#the-church)
-          - [The Draco-Cults](#the-draco-cults)
-          - [House Heron](#house-heron)
-          - [The Magi](#the-magi)
-          - [The Elves](#the-elves)
-          - [The Laplass Family](#the-laplass-family)
-      - [Myth and Minutiae](#myth-and-minutiae)
-          - [Witchcraft](#witchcraft)
-          - [Raz-Modian](#raz-modian)
-          - [The Prayers](#the-prayers)
-          - [Illumination](#illumination)
-          - [Gold Creep](#gold-creep)
-          - [Entangled Items](#entangled-items)
-          - [Holy Avatar](#holy-avatar)
-          - [Wood Grail](#wood-grail)
-
-<!-- /TOC -->
 
 ## Gods and Devils
 
@@ -406,13 +343,26 @@ thought to be a myth.
       - 20 Kad takes the form of a darkly fascinating witch harlot
       - 22 Real and regular worship of Kad prevents natural death
 
-## Lands and Seas
+## Cities, Towns, Seas and Lands
 
 ### Grand Forest
 
-The Grand Forest, often called Mirwood, is the largest, oldest and most
-dense forest in the kingdom. It is home to creatures magical and
-mundane.
+The Grand Forest is the largest, oldest and most dense forest in the
+kingdom. It is home to creatures magical and mundane.
+
+  - Knowledge Check
+      - 5 It is often called *MirWood*
+      - 7 The best game is caught in the forest including the famous
+        **Dire Elk** that is so loved by the [Royal
+        Family](#the-royal-family)
+      - 10 Elves originally came from somewhere in the **grand forest**
+      - 13 The forest is haunted by deadly willow wisps that mesmerize
+        their victims and draw them deeper into the dark woods
+      - 16 There are stones secret flagstones scattered around the
+        forest that the druids use to navigate
+      - 22 The safest time to travel in the woods is when the harmless
+        wisps light up the forest, between around **2AM** to just after
+        **Dawn**
 
 ### Northern Sea
 
@@ -420,6 +370,28 @@ The name given to the vast and cold sea that stretches over the
 north-west of [The Kingdom](#the-kingdom). It supports massive schools
 of fish, it’s shores are seasonally filled to bursting with **clapping
 clams** and it is likely riddled with colossal sea monsters.
+
+  - Knowledge Check
+      - 10 The famous north sea *clapping clams* are responsible for the
+        almost annual outbursts of [cold cry fever](#cold-cry-fever)
+        that sweeps through [the Kingdom](#the-kingdom).
+      - 15 There is an old record of a *South Sea*, sister of the north
+        sea that is warm and clear with white sand beaches.
+      - 20 There was a recent report sworn to by the entire crew of
+        **The Whiskey Fish** (A sea slug troller-boat) about a meeting
+        with a strange half-starved beautiful woman who was floundering
+        on some floating frozen drift wood. The woman was hauled aboard
+        and given [Spicey Green Pepper Tea](#burn-shire). After her tea
+        she requested food. The sailors obliged and fed her some of
+        their hard-tack. After eating half a crate, she asked to open
+        another. The woman sat and ate voraciously for over an hour.
+        Then asked for some of their sea-slug catch. The amazed
+        fishermen obliged again and led her to the store-hold. After
+        another hour of non-stop eating, the captain tried to put a stop
+        to it. The woman cackled maniaclly then transformed in front of
+        them into a large brown-golden dragon and swallowed the rest of
+        their stores in a single gulp before bursting out of the hold
+        and flying back towards the shore.
 
 ### The Kingdom
 
@@ -432,11 +404,32 @@ claim to sovereignty. It is only because no one knows exactly where
 [Vanima](#vanima) is; that the elves escape any authority. Wherever
 human civilization can be found, the royal decree is supreme.
 
+  - Knowledge Check
+      - 5 [Blackstone](#blackstone) is in the east, [Lutra](#lutra) is
+        in the north and [Castle Heron](#castle-heron) is in the south
+      - 15 [The Royal Family](#royal-family) has been in power for
+        almost **sixty** years
+      - 18 Before [Raz-Modian](#raz-modian), there were many kingdoms
+      - 22 There is a section of [The Code](#the-code) that details how
+        long a single lord or lady can keep power
+
 ### Druuthenholm Mountains
 
 The historical homelands of the Dwarfs. **Druuthenholm** was taken from
 the dwarfs when [Raz-Modian](#raz-modian) chose their stronghold as his
 roost.
+
+  - Knowledge Check
+      - 12 Amongst the Dwarfs it is known; [King Gorm The
+        Old](#gorm-the-old) lives and is plotting [The
+        Slaying](#the-slaying)
+      - 18 [Raz-Modian](#raz-modian) did indeed take all the gold and
+        treasure from **Druuthenholm Keep** but before he could do the
+        same to the second largest fortress in the mountains, *Braydr*,
+        the Jarl of Braydr used his magic hammer to smelt the the city’s
+        treasure vault and in one strike, forged all the gold into a
+        single ingot. Before **Braydr** was torched, the **Braydr
+        Ingot** escaped the city.
 
 ### Lutra
 
@@ -447,7 +440,19 @@ territories combined. It is also famous for it’s livestock. The horses,
 cows, pigs and even the chickens all seem to be extra alert, trainable,
 healthy and intelligent.
 
-## Cities and Towns
+  - Knowledge Check
+      - 5 The lands of Lutra used to be choked with forest every bit as
+        dense as [Mirwood](#the-grand-forest)
+      - 10 Even though the peoples of Lutra are generally tall and
+        broad, they **must** have some elven in them by the way they
+        treat the land. Even the name *Lutra* sounds *elven*
+      - 12 The forests were cleared out of *The Highlands* hundreds of
+        years ago, but the stone monuments that were formally deep in
+        the woods are now scattered about randomly on old farms and
+        fields. They’re locallay called **faerie stones**
+      - 20 [The Kongalee Library](#university-of-lutra) will pay a
+        fortune for documentation of any **new** faerie stones found in
+        **Lutra**
 
 ### Vanima
 
@@ -461,7 +466,37 @@ neighborhoods or regions. While it isn’t rare for a village to have the
 odd elf or two, it **is** very rare to see an elven family or even a
 large group.
 
+  - Knowledge Check
+      - 10 The real location of Vanima is lost, even to the
+        [elves](#the-elves) but it must be somewhere on the coast of
+        *the Northern Sea*, deep in [the Grand Forest](#grand-forest).
+      - 14 The strange white-gold elven coin that can sometimes be found
+        in [Lutra](#lutra) and [the capital](#blackstone) must be from
+        Vanima.
+      - 18 Elves are mysterious as they are, but **especially strange**
+        wood elves are traveling through the kingdom constantly. They
+        **must** know where Vanima is.
+
 ### Chendrin Hall
+
+**Chendrin Hall** is the formal name of the huge barracks and fort that
+marks the edge of the frontier in the **south**. It isn’t technically
+affiliated with any particular noble house and takes soldiers from
+across the Kingdom. Elves, Dwarfs and even *Halflings* are among the
+ranks that are stationed at Chendrin.
+
+The fort is responsable for the protection of all the villages and
+regions in the south and as such, it’s soldiers see more action than
+anyone else in the kingdom. [The less civil orcish
+warbands](#the-kimbree) consider themselves at constant war with [The
+Kingdom](#the-kingdom) and regularly muster offensives against Chendrin
+Hall.
+
+  - Knowledge Check
+      - 14 Chendrin Hall will pay **100 Gold Coins** to any able bodies
+        man or woman who enlists there.
+      - 15 The 100 Coins will only be paid after **four years** of
+        uninterrupted service..
 
 ### Castle Heron
 
@@ -472,6 +507,11 @@ stone. It is likely the cleanest city in the Kingdom and is certainly
 the most well kept. The dark purple banners of the Heron house add to
 the aesthetic as do the intricate capes, arms and armor that is
 furnished for the cities guard and officials.
+
+  - Heron Plate-Mail
+      - 1800gp
+      - Acts as Full Plate but grants the wearer the use of their **Dex
+        Bonus** to a maximum of **+2**
 
 ### Burn Shire
 
@@ -546,13 +586,25 @@ with a growly voice and twinkling bright hazel eyes.
         excited to see the two lovers into their own lands. The girl
         caught the attention of [The Draco Cultists](#the-draco-cults)
         and was taken from their home in the dead of night and her
-        fiance was killed. That was **22** years past and **Lord
+        fiancé was killed. That was **22** years past and **Lord
         Bellingham** has never been the same. Secretly swearing slow
         revenge on [Raz-Modian](#raz-modian) and all who follow him.
 
 ### Lady Jarvesetee
 
 The last and only heir to the [Jarvesetee house](#house-jarvesetee).
+
+### Gorm the Old
+
+**Gorm the Old** was the king of the dwarfs before
+[Raz-Modian](#raz-modian) took [Druuthenhold Keep](#druuthenholm).
+
+  - Knowledge Check
+      - 10 Gorm the Old died in single combat with **Raz-Modian**
+      - 12 Gorm the Old survived the fight with **Raz-Modian** and fled
+        the city
+      - 18 Gorm the Old **definitely** died in the battle for
+        **Druuthenhold**
 
 ### Lord Lutra
 
@@ -602,7 +654,8 @@ stay in the good graces of the church, since they command huge amounts
 of public and private opinion. The church also provides communities with
 vital medical and disaster relief services. They generally preach peace
 and forgiveness but when they *have reason* they have little trouble
-finding a passage or two in *The Prayers* to excuse violent torture.
+finding a passage or two in [The Prayers](#the-prayers) to excuse
+violent torture.
 
 ### The Draco-Cults
 
@@ -613,6 +666,48 @@ back to Raz-Modian. This is done with full knowledge and protection of
 the King. Many see it as a necessary evil and do their best not to draw
 the attention of any Draco-Cultists. Unknown to most, there are members
 of other Draco-Cults, in service to some of the other dragons.
+
+  - Knowledge Check
+      - 22 There are cultists at work near [Castle Heron](#castle-heron)
+        that do the bidding of a **Silver Dragon** in the south
+
+### University of Lutra
+
+[Lutra](#lutra) is home to one of the only two major schools of higher
+learning in [the kingdom](#the-kingdom), the other being the [Gratz
+School](#grats) in [the capital](#blackstone). The school has three
+major segments; **The Martial College** which trains many capable
+knights and officers, **The Arcanum** which is the only formal school
+for learning magic and **The Gabson College** which is a minor but
+famous culinary and animal husbandry school.
+
+  - The school also boasts the largest singular library in the kingdom,
+    **Kongalee Library**
+      - Advantage granted to users of the library when performing
+        research or *investigation*
+
+### Gratz
+
+**The Gratz School** is a large college in [Blackstone](#blackstone)
+that produces squires, soldiers, officers and even knights. The school
+was transformed after the entire faculty quit in protest forty years ago
+and new instructors were selected primarily from the royals houses and
+[the Draco Cults](#the-draco-cults).
+
+### The Kimbree
+
+The most fearsome orcish tribe in the south. The Orcs travel from all
+over to join banners with the Kimbree. They are constantly pillaging and
+terrorizing the southlands.
+
+  - Knowledge Check
+      - 10 The Kimbree will happily take, buy and sell slaves
+      - 13 **Warlord Zab Bata** leads *the Kimbree*
+      - 18 Members of [the Draco-Cults](#the-draco-cults) can move
+        freely amongst the Kimbree war camps.
+      - 24 More than anything else, the Kimbree are after clean water,
+        or magic that can rid their springs of a *strange disease* that
+        torments Orcish young.
 
 ### House Heron
 
@@ -669,6 +764,24 @@ do decide for themselves what is friendly magic and what is witchcraft.
 The great old colossal red dragon that dominates the north eastern
 *Druuthenholm Mountains*
 
+### The Code
+
+A code-of-conduct for all nobles and knights. Most know it exists but
+very few know what’s in it. There are a few written copies in old
+book-seller shops. It is usually a vague term to denote *chivalry*.
+
+  - Knowledge Check
+      - 12 The code makes clear that a noble should never strike an
+        unarmed foe, never strike in anger and never strike in greed
+      - 14 The code states that all are **knights** by virtue of
+        following the code itself
+      - 16 The code says a knight shall never draw his sword as mere
+        threat without intent
+      - 20 According to the code, knights shall never marry until they
+        give their arms and armor away
+      - 24 The code says something about how power should be distributed
+        in the kingdoms by high-council..
+
 ### The Prayers
 
 The holy book that is kept by all true followers of *Sol*. Copies are
@@ -676,6 +789,12 @@ created, blessed and sold by *The Church* and updated periodically by a
 process called *Illumination*. It is forbidden by law in *The Kingdom*
 to possess an un-illuminated copy of The Prayers and they are destroyed
 whenever found.
+
+### The Slaying
+
+Any plan or plot or idea of **Killing Raz-Modian** is punishable by
+immediate execution. People still whisper hopefully about *the slaying*
+in private.
 
 ### Illumination
 

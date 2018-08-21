@@ -3,8 +3,8 @@
 <!-- TOC -->
 
 - [Mythic Plot](#mythic-plot)
-    - [Preamble](#preamble)
-    - [The Meet Cute](#the-meet-cute)
+  - [Preamble](#preamble)
+  - [The Meet Cute](#the-meet-cute)
 
 <!-- /TOC -->
 

@@ -1,21 +1,5 @@
 # Mythic Campaign Outline
 
-<!-- TOC -->
-
-- [Mythic Campaign Outline](#mythic-campaign-outline)
-    - [Character Creation](#character-creation)
-        - [6 Characters](#6-characters)
-            - [Brother/Sister Purity Pants](#brothersister-purity-pants)
-            - [Rap Sheet](#rap-sheet)
-            - [Gnaw Leg](#gnaw-leg)
-            - [Sir Madame Shiny](#sir-madame-shiny)
-            - [War-Horse Girl Stable Boy](#war-horse-girl-stable-boy)
-            - [Wizards Apprentice](#wizards-apprentice)
-        - [Make 6 Stat pools that the characters can distribute amongst themselves](#make-6-stat-pools-that-the-characters-can-distribute-amongst-themselves)
-        - [Quest Bennies](#quest-bennies)
-
-<!-- /TOC -->
-
 ## Character Creation
 
 - Total disregard for equality amongst the characters. It makes for a more interesting world.
@@ -104,7 +88,7 @@
 
 - Must be Human or half-human
 - Starts with **100gp** worth of gear
-- Bastard Daughter of Lord [Lutra](#lutra)
+- Bastard Daughter of Lord [Lutra](#lord-lutra)
 - Squire to Sir Shiny
 - Looks after the horse
   - The Horse has +8 Int, +4 Wis and +2 Cha
@@ -164,14 +148,14 @@
 
 ### Make 6 Stat pools that the characters can distribute amongst themselves
 
-| A  | B  | C  | D  | E  | F  |
-| -- | -- | -- | -- | -- | -- |
-| 17 | 16 | 15 | 16 | 14 | 14 |
-| 16 | 15 | 15 | 15 | 13 | 11 |
-| 15 | 13 | 13 | 13 | 13 | 11 |
-| 15 | 13 | 12 | 12 | 10 | 10 |
-| 13 | 12 | 10 | 10 | 10 | 9  |
-| 11 | 12 | 10 | 9  | 9  | 8  |
+| Quality  |   |   |   |   |   |  |
+| -- | -- | -- | -- | -- | -- | -- |
+| A | 17 | 16 | 15 | 15 | 13 | 11 |
+| B | 16 | 15 | 13 | 13 | 12 | 12 |
+| C | 15 | 15 | 13 | 12 | 10 | 10 |
+| D | 16 | 15 | 13 | 12 | 10 | 9 |
+| E | 14 | 13 | 13 | 10 | 10 | 9 |
+| F | 14 | 11 | 11  | 10  | 9  | 8
 
 ### Quest Bennies
 

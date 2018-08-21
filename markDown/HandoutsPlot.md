@@ -2,25 +2,17 @@
 
 To be given out at character creation by the discretion of the DM based on _player ability_ and party cohesion.  They are not associated to any pre-made character per se.
 
-<!-- TOC -->
-
-- [Handouts Plot](#handouts-plot)
-    - [The Dream Again](#the-dream-again)
-    - [More Money More](#more-money-more)
-    - [Putting In Time](#putting-in-time)
-    - [All Hail The Cook](#all-hail-the-cook)
-    - [Not-so-Much a Pet](#not-so-much-a-pet)
-    - [Treasure Trap](#treasure-trap)
-
-<!-- /TOC -->
-
 ## The Dream Again
 
 You suffer a recurring nightmare.  You find yourself on the rocky and muddy shores of a cold coast.  The air is misty and you are scared, trying to keep your composure as you hastily make your way to the waters edge.  It feels like you are leaving behind some crime you've committed or a meeting with a powerful lord who could snap his fingers and have you thrown into a cell.  Floating there is a long black row boat with a figure in it holding the oars.  You scramble to it and jump in.  The ferryman is old and disfigured.  In your trembling and freezing hand is a dirty silver coin.  Sometimes you speak with the ferryman and sometimes you just hand him the coin and he sets off across the river or lake.  The parts of the dream you remember don't seem that frightening but you always wake short of breath in a cold sweat.
 
-## More Money More
+## That Smell
 
-## Putting In Time
+That smell..  Everyone else seems to like it.  Everyone else seems to love it.  The smell of boiled squash and pumpkin **for some reason** smells like **vomit** to you.  When you were younger you were once forced to try some and it took **five days** to get the taste out of your mouth.
+
+## The Strangest Thing
+
+You were once accosted in the street by what appeared to be **Draco-Cultists** of **Raz-Modian**!  There were three of them and they gruffly grabbed you and pulled you to the side.  In an instant your whole future flashed before your eyes, the chains, the march to the mountains and finally being fed to that old red dragon.  To your surprise these draco-cultists, all dressed in red as they should be, grinned warmly at your discomfort and told you that yes, they did indeed serve a **Dragon** but not the one you knew.  They told you that you were being watched over, that your future held great promise and some day, you would be called upon.  Then they dusted off your clothes and made a show of "letting you off with a warning" before grinning and disappearing back into the street, leaving your breathless and confused.
 
 ## All Hail The Cook
 

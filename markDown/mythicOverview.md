@@ -1,60 +1,5 @@
 # Mythic Overview
 
-<!-- TOC -->
-
-- [Mythic Overview](#mythic-overview)
-    - [Gods and Devils](#gods-and-devils)
-        - [Sol Birth](#sol-birth)
-        - [Mir Life](#mir-life)
-        - [Kad Death](#kad-death)
-    - [Lands and Seas](#lands-and-seas)
-        - [Grand Forest](#grand-forest)
-        - [Northern Sea](#northern-sea)
-        - [The Kingdom](#the-kingdom)
-        - [Druuthenholm Mountains](#druuthenholm-mountains)
-        - [Lutra](#lutra)
-    - [Cities and Towns](#cities-and-towns)
-        - [Vanima](#vanima)
-        - [Chendrin Hall](#chendrin-hall)
-        - [Castle Heron](#castle-heron)
-        - [Burn Shire](#burn-shire)
-        - [Blackstone](#blackstone)
-        - [Bondwafer](#bondwafer)
-    - [Lords and Ladies](#lords-and-ladies)
-        - [The Queen](#the-queen)
-        - [Count Putnam Laplass](#count-putnam-laplass)
-        - [Princess Eubuli](#princess-eubuli)
-        - [High Priest Anslem](#high-priest-anslem)
-        - [Lord Bellingham](#lord-bellingham)
-        - [Lady Jarvesetee](#lady-jarvesetee)
-        - [Gorm the Old](#gorm-the-old)
-        - [Lord Lutra](#lord-lutra)
-        - [Goodly Grue](#goodly-grue)
-    - [Factions and Guilds](#factions-and-guilds)
-        - [Royal Family](#royal-family)
-        - [House Jarvesetee](#house-jarvesetee)
-        - [The Church](#the-church)
-        - [The Draco-Cults](#the-draco-cults)
-        - [University of Lutra](#university-of-lutra)
-        - [Gratz](#gratz)
-        - [The Kimbree](#the-kimbree)
-        - [House Heron](#house-heron)
-        - [The Magi](#the-magi)
-        - [The Elves](#the-elves)
-        - [The Laplass Family](#the-laplass-family)
-    - [Myth and Minutiae](#myth-and-minutiae)
-        - [Witchcraft](#witchcraft)
-        - [Raz-Modian](#raz-modian)
-        - [The Code](#the-code)
-        - [The Prayers](#the-prayers)
-        - [Illumination](#illumination)
-        - [Gold Creep](#gold-creep)
-        - [Entangled Items](#entangled-items)
-        - [Holy Avatar](#holy-avatar)
-        - [Wood Grail](#wood-grail)
-
-<!-- /TOC -->
-
 ## Gods and Devils
 
 ### Sol Birth
@@ -110,7 +55,7 @@ thought to be a myth.
   - 20 Kad takes the form of a darkly fascinating witch harlot
   - 22 Real and regular worship of Kad prevents natural death
 
-## Lands and Seas
+## Cities, Towns, Seas and Lands
 
 ### Grand Forest
 
@@ -132,7 +77,7 @@ The name given to the vast and cold sea that stretches over the north-west of [T
 - Knowledge Check
   - 10 The famous north sea _clapping clams_ are responsible for the almost annual outbursts of [cold cry fever](#cold-cry-fever) that sweeps through [the Kingdom].
   - 15 There is an old record of a _South Sea_, sister of the north sea that is warm and clear with white sand beaches.
-  - 20 There was a recent report sworn to by the entire crew of **The Whiskey Fish** (A sea slug troller-boat) about a meeting with a strange half-starved beautiful woman who was floundering on some floating frozen drift wood.  The woman was hauled aboard and given [Spicey Green Pepper Tea](#burnshire).  After her tea she requested food.  The sailors obliged and fed her some of their hard-tack.  After eating half a crate, she asked to open another.  The woman sat and ate voraciously for over an hour.  Then asked for some of their sea-slug catch.  The amazed fishermen obliged again and led her to the store-hold.  After another hour of non-stop eating, the captain tried to put a stop to it.  The woman cackled maniaclly then transformed in front of them into a large brown-golden dragon and swallowed the rest of their stores in a single gulp before bursting out of the hold and flying back towards the shore.
+  - 20 There was a recent report sworn to by the entire crew of **The Whiskey Fish** (A sea slug troller-boat) about a meeting with a strange half-starved beautiful woman who was floundering on some floating frozen drift wood.  The woman was hauled aboard and given [Spicey Green Pepper Tea](#burn-shire).  After her tea she requested food.  The sailors obliged and fed her some of their hard-tack.  After eating half a crate, she asked to open another.  The woman sat and ate voraciously for over an hour.  Then asked for some of their sea-slug catch.  The amazed fishermen obliged again and led her to the store-hold.  After another hour of non-stop eating, the captain tried to put a stop to it.  The woman cackled maniaclly then transformed in front of them into a large brown-golden dragon and swallowed the rest of their stores in a single gulp before bursting out of the hold and flying back towards the shore.
 
 ### The Kingdom
 
@@ -162,8 +107,6 @@ The lands that makeup [Lord Lutra's](#lord-lutra) region are known as _The Highl
   - 12 The forests were cleared out of _The Highlands_ hundreds of years ago, but the stone monuments that were formally deep in the woods are now scattered about randomly on old farms and fields.  They're locallay called **faerie stones**
   - 20 [The Kongalee Library](#university-of-lutra) will pay a fortune for documentation of any **new** faerie stones found in **Lutra**
 
-## Cities and Towns
-
 ### Vanima
 
 Thought to be a vast and mature elven citadel hidden somewhere in the [Northern Sea](#northern-sea).  Most of the elves wandering [The Kingdom](#the-kingdom) either don't know or choose not to divulge any confirmation of **Vanima**'s existence.  Their silence does nothing to combat the many rumors about Vanima and [The Elves](#the-elves).  Unlike the other races, Elves don't seem to collect together in single neighborhoods or regions.  While it isn't rare for a village to have the odd elf or two, it **is** very rare to see an elven family or even a large group.
@@ -188,6 +131,10 @@ The fort is responsable for the protection of all the villages and regions in th
 The **3rd** largest city in the *The Kingdom*, ruled over by the most
 powerful noble house other than the royal family themselves; [House
 Heron](#house-heron).  **Castle Heron** itself is made of smooth polished stone.  It is likely the cleanest city in the Kingdom and is certainly the most well kept.  The dark purple banners of the Heron house add to the aesthetic as do the intricate capes, arms and armor that is furnished for the cities guard and officials.
+
+- Heron Plate-Mail
+  - 1800gp
+  - Acts as Full Plate but grants the wearer the use of their **Dex Bonus** to a maximum of **+2**
 
 ### Burn Shire
 
@@ -247,7 +194,7 @@ Formally a great hero knight, **Bellingham** can now be found pattering around h
 
 ### Lady Jarvesetee
 
-The last and only heir to the [Jarvesetee house](#house-jarvesetee). 
+The last and only heir to the [Jarvesetee house](#house-jarvesetee).
 
 ### Gorm the Old
 
@@ -294,7 +241,7 @@ stay in the good graces of the church, since they command huge amounts
 of public and private opinion. The church also provides communities with
 vital medical and disaster relief services. They generally preach peace
 and forgiveness but when they *have reason* they have little trouble
-finding a passage or two in *The Prayers* to excuse violent torture.
+finding a passage or two in [The Prayers](#the-prayers) to excuse violent torture.
 
 ### The Draco-Cults
 
@@ -313,7 +260,8 @@ of other Draco-Cults, in service to some of the other dragons.
 
 [Lutra](#lutra) is home to one of the only two major schools of higher learning in [the kingdom](#the-kingdom), the other being the [Gratz School](#grats) in [the capital](#blackstone).  The school has three major segments; **The Martial College** which trains many capable knights and officers, **The Arcanum** which is the only formal school for learning magic and **The Gabson College** which is a minor but famous culinary and animal husbandry school.
 
-The school also boasts the largest singular library in the kingdom, **Kongalee Library**.
+- The school also boasts the largest singular library in the kingdom, **Kongalee Library**
+  - Advantage granted to users of the library when performing research or _investigation_
 
 ### Gratz
 
@@ -321,7 +269,7 @@ The school also boasts the largest singular library in the kingdom, **Kongalee L
 
 ### The Kimbree
 
-The most fearsome orcish tribe in the south.  The Orcs from travel from all over to join banners with the Kimbree.  They are constantly pillaging and terrorizing the southlands.
+The most fearsome orcish tribe in the south.  The Orcs travel from all over to join banners with the Kimbree.  They are constantly pillaging and terrorizing the southlands.
 
 - Knowledge Check
   - 10 The Kimbree will happily take, buy and sell slaves
@@ -394,6 +342,10 @@ created, blessed and sold by *The Church* and updated periodically by a
 process called *Illumination*. It is forbidden by law in *The Kingdom*
 to possess an un-illuminated copy of The Prayers and they are destroyed
 whenever found.
+
+### The Slaying
+
+Any plan or plot or idea of **Killing Raz-Modian** is punishable by immediate execution.  People still whisper hopefully about _the slaying_ in private.
 
 ### Illumination
 
